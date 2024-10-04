@@ -20,4 +20,4 @@
 
 # Credits
 
-This is based of [Tinygiant](https://github.com/tinygiant98)'s [appearance_editor](https://github.com/tinygiant98/nui/tree/legacy/formfiles/appearance_editor) code using his [NUI](https://github.com/tinygiant98/nui) wrapper framework. Thank you :)
+This is based on [Tinygiant](https://github.com/tinygiant98)'s [appearance_editor](https://github.com/tinygiant98/nui/tree/legacy/formfiles/appearance_editor) code using his [NUI](https://github.com/tinygiant98/nui) wrapper framework. Thank you :)
